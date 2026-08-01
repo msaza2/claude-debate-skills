@@ -1,0 +1,8 @@
+{
+  "name": "software-debate",
+  "version": "1.0.0",
+  "description": "Layered multi-agent critique of a product, feature, spec, design choice or plan. A moderator picks expert seats from four charter files, runs them as blind parallel critics, adversarially verifies findings with refuter agents, and synthesizes a verdict via a precedence ladder. Explicit invocation only.",
+  "author": { "name": "msaza2" },
+  "homepage": "https://github.com/msaza2/claude-debate-skills",
+  "keywords": ["debate", "critique", "multi-agent", "design-review", "adversarial-verification"]
+}

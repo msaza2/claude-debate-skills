@@ -1,0 +1,8 @@
+{
+  "name": "general-debate",
+  "version": "1.0.0",
+  "description": "Adversarial multi-agent debate for any decision outside software: purchases, hardware builds, travel, business and life choices. Builds a web-researched, dated, sourced evidence pack, runs blind expert seats, verifies findings with refuters, and synthesizes a verdict. Explicit invocation only.",
+  "author": { "name": "msaza2" },
+  "homepage": "https://github.com/msaza2/claude-debate-skills",
+  "keywords": ["debate", "decision-making", "research", "multi-agent", "adversarial-verification"]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "debate-marketplace",
+  "owner": { "name": "msaza2" },
+  "plugins": [
+    {
+      "name": "software-debate",
+      "source": "./plugins/software-debate",
+      "description": "software-debate - blind expert seats, refuter verification and a precedence-based verdict for products, specs, repos and design choices."
+    },
+    {
+      "name": "general-debate",
+      "source": "./plugins/general-debate",
+      "description": "general-debate - the same machine for non-software decisions, grounded in a dated, sourced, web-researched evidence pack."
+    }
+  ]
+}
