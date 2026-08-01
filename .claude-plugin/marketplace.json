@@ -1,6 +1,8 @@
 {
   "name": "debate-marketplace",
-  "owner": { "name": "msaza2" },
+  "owner": {
+    "name": "msaza2"
+  },
   "plugins": [
     {
       "name": "software-debate",
@@ -12,5 +14,6 @@
       "source": "./plugins/general-debate",
       "description": "general-debate - the same machine for non-software decisions, grounded in a dated, sourced, web-researched evidence pack."
     }
-  ]
+  ],
+  "description": "Personal Claude Code marketplace: software-debate and general-debate, adversarial multi-agent critique with blind expert seats and refuter verification."
 }
